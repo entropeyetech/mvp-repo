@@ -20,7 +20,7 @@ const int colorR2 = 0;
 const int colorG2 = 0;
 const int colorB2 = 255;
 
- Ultrasonic ultrasonic(9,10);
+Ultrasonic ultrasonic(9,10);
 
 
 void setup()
