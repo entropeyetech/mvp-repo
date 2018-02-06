@@ -23,7 +23,7 @@ board.on("ready", function(){
     this.digitalRead(3, function(value){
     var positionCounter;
         for (positionCounter = 0; positionCounter <29; positionCounter++) {
-        if (value===1){
+        if (value==1){
             console.log("Collisione");
         this.digitalWrite(2,1);
         this.digitalWrite(4,0);

@@ -10,3 +10,8 @@ Uso del Framework NodeJS Johnny-Five
 Reference
 http://johnny-five.io/api/board/
 
+Uso di libreria per Telegram Bot
+- Installazione Lib --> npm install node-telegram-bot
+
+
+
